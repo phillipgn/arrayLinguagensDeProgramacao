@@ -1,0 +1,9 @@
+let linguagensDeProgramacao = ['javaScript','C','C++','Kotlin','Python'];
+linguagensDeProgramacao.push = ['java', 'rubi','GoLang'];
+console.log (linguagensDeProgramacao);
+
+nomes = ['javascript','python','go'];
+console.log (nomes[0]),
+
+nomes = ['javascript','python','Go'];
+console.log (nomes[1]);
